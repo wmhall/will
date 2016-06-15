@@ -35,3 +35,8 @@ Let's add a new chunk.
 mean(cars$speed)
 ```
 
+
+llply user:cran language:r
+
+this can be used to search github for in the wild uses of llply
+
